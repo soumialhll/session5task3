@@ -1,0 +1,140 @@
+body{
+
+
+    margin-top: 0;
+    padding: 0;
+    background-image: url('téléchargement.jpg');
+    background-repeat: no-repeat; 
+    background-attachment: fixed;
+    background-size: cover;
+    position: relative;  
+}
+
+
+
+
+
+
+
+
+
+
+.container2{
+
+
+    
+    width: 70%;
+    height: 700px;
+    margin: auto;
+    padding-top: 40px;
+}
+
+
+
+h5,h1{
+
+    margin: auto;
+    
+    text-align: center;
+}
+
+
+h5{
+
+    color: greenyellow;
+}
+
+
+h1{
+
+    color: white;
+    margin-top: 20px;
+}
+
+
+
+
+.bottom{
+
+height: 80%;
+width: 80%;
+margin: auto;
+
+}
+
+.form{
+
+height: 100%;
+width: 63%;
+background-color: transparent;
+float: left;
+
+}
+
+
+
+.text{
+
+height: 100%;
+width: 33%;
+background-color: black;
+float: left;
+padding-left: 20px;
+
+
+
+}
+
+
+.text h5{
+    text-align: left;
+}
+
+
+h4{
+    color: white;
+}
+
+
+p{
+    color: gainsboro;
+}
+
+
+input{
+
+    background-color: transparent;
+    border: none;
+    border-bottom: solid 0.3px gray;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    width: 90%;
+}
+
+textarea{
+    background-color: transparent;
+    border-bottom: solid 0.3px gray;
+    margin-top: 20px;
+    border: none;
+    width: 90%;
+}
+
+
+label{
+
+margin-top: 20px;
+color: grey;
+
+}
+
+
+button{
+
+height: 40px;
+width: 80%;
+border: none;
+background-color: green;
+color: white;
+text-align: center;
+
+}
